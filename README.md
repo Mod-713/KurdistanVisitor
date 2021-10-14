@@ -3,8 +3,8 @@ The Third Application And its Still in Working By MySelf
 
 
 Video Update 10/14/2021
-
-https://github.com/Mod-713/KurdistanVisitor/blob/main/video_2021-10-14_18-40-53.mp4
+video of application.
+https://github.com/Mod-713/KurdistanVisitor/issues/1#issue-1026580161
 
 1
 ![](d1.jpg)
