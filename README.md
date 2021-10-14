@@ -1,6 +1,10 @@
 # KurdistanVisitor
 The Third Application And its Still in Working By MySelf
 
+
+Video Update 10/14/2021
+https://github.com/Mod-713/KurdistanVisitor/blob/main/video_2021-10-14_18-40-53.mp4
+
 1
 ![](d1.jpg)
 
